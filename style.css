@@ -1,0 +1,19 @@
+.header{
+    font-size: 20px;
+    width: 80%;
+    }
+    body{
+        background-color: wheat;
+    }
+    .objects{
+        color: red;
+        font-size: 15px;
+    }
+    #camera{
+        border:2px dashed black;
+        
+    }
+    #object_accuracy,#object_name{
+        color: red;
+        font-size: 20px;
+    }
